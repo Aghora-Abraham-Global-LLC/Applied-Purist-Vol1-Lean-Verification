@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "Applied Purist Series Vol. I — Lean 4 Formal Verification Suite (Rough Volatility, KYP Passivity, 4D KS Spinors, UDU^T & MarketState64)"
+version: "1.0.0"
+date-released: "2026-11-25"
+authors:
+  - family-names: "Ghulam-e-Shah-e-Unmani"
+    given-names: "Arya Arunachala Ananda"
+    affiliation: "BhutaDamaraSena R&D Labs, Aghora Abraham Global LLC"
+license: CC-BY-4.0
+doi: 10.5281/zenodo.24104901
+url: "https://lean.bhutadamarasena.com/"
+references:
+  - type: software
+    title: "Non-Markovian Rough Volatility in O(1) Step Complexity: Minimal Stinespring-KYP Operator Dilations, KS Regularization & WebGPU Execution"
+    doi: 10.5281/zenodo.24133639

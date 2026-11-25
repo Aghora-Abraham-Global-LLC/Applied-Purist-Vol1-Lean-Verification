@@ -1,0 +1,56 @@
+{
+  "title": "Applied Purist Series Vol. I \u2014 Lean 4 Formal Verification & Silicon ABI Archive",
+  "upload_type": "software",
+  "license": "cc-by-4.0",
+  "version": "1.0.0",
+  "description": "Mathlib-free Lean 4.36.0 / Lake 5.0 formal verification suite (155 KERNEL_ONLY theorems, 0 sorry, 0 native_decide) for Applied Purist Vol. I: Quantitative Finance Core (10.5281/zenodo.24104901 | Companion SW 10.5281/zenodo.24133639). Formally proves O(N^2) convolution sum identity, weighted 8-mode KYP passivity M_KYP(P) < 0 with P = diag(R_1..R_8), full 4D Kustaanheimo-Stiefel (KS) spinor matrix orthogonality L(u)^T L(u) = ||u||^2 I_4, Euler four-square norm, bilinear gauge symmetry, arbitrary-N Bierman-Thornton UDU^T strict positive definiteness, 2x2 Givens SRIF norm preservation, 64-level bitwise LOB popcnt/rotl64 conservation, European call 1-Lipschitz convexity, Lasry-Lions & Table 2.1 bounds, MarketState64 64-byte WebGPU ABI, and Solinas primality.",
+  "creators": [
+    {
+      "name": "Ghulam-e-Shah-e-Unmani, Arya Arunachala Ananda",
+      "affiliation": "BhutaDamaraSena R&D Labs, Aghora Abraham Global LLC"
+    }
+  ],
+  "keywords": [
+    "Lean 4",
+    "Formal Verification",
+    "Rough Volatility",
+    "KYP Passivity",
+    "Kustaanheimo-Stiefel",
+    "UDUT Covariance",
+    "Bitwise LOB",
+    "Lasry-Lions",
+    "WebGPU ABI"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.24104901",
+      "relation": "isSupplementTo",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.24133639",
+      "relation": "isDerivedFrom",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.24496435",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.24509559",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.24526251",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://lean.bhutadamarasena.com/",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    }
+  ]
+}
